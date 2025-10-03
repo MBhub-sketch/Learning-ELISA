@@ -10,7 +10,9 @@ I validated the analysis of a previously published ELISA dataset containing stan
 
 Citations:
 Cardillo G. (2012) Four parameters logistic regression - There and back again https://it.mathworks.com/matlabcentral/fileexchange/38122
+
 Open-AI's Support was used
+
 My Assays Ltd, 2021
 
 
